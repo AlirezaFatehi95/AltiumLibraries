@@ -4,9 +4,9 @@ This repository contains a structured set of component libraries for **Altium De
 
 ## Features
 
-- **Ready-to-use symbols & footprints**
-- **Database-linked libraries (DBLib)**
-- **Easily customizable and extendable**
+- Ready-to-use symbols & footprints
+- Database-linked libraries (DBLib)
+- Easily customizable and extendable
 
 ## Requirements
 
@@ -19,7 +19,7 @@ This repository contains a structured set of component libraries for **Altium De
 2. Open Altium Designer.
 3. Go to the `Components` panel.
 4. Open the `Libraries Prefrences` window.
-5. On the `Installed` tab Click on the `Install` button.
+5. On the `Installed` tab click on the `Install` button.
 6. Select `AltiumLib.DbLib`
 
 ## Contributing
