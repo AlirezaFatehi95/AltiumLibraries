@@ -12,15 +12,19 @@ This repository contains a structured set of component libraries for **Altium De
 
 - [**Altium Designer**](https://www.altium.com/)
 - **Microsoft Access** (for contribution)
+- [**Git LFS**](https://git-lfs.github.com/) (required to clone the database file)
 
 ## Getting Started
 
-1. Clone or download this repository.
-2. Open Altium Designer.
-3. Go to the `Components` panel.
-4. Open the `Libraries Prefrences` window.
-5. On the `Installed` tab click on the `Install` button.
-6. Select `AltiumLib.DbLib`
+1. **Install Git LFS** (required for `.accdb` file):
+   ```bash
+   git lfs install
+2. Clone this repository.
+3. Open Altium Designer.
+4. Go to the `Components` panel.
+5. Open the `Libraries Prefrences` window.
+6. On the `Installed` tab click on the `Install` button.
+7. Select `AltiumLib.DbLib`
 
 ## Contributing
 
